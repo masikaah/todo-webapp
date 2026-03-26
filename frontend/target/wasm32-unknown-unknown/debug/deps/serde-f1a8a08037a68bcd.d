@@ -1,0 +1,14 @@
+/workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/deps/serde-f1a8a08037a68bcd.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out/private.rs
+
+/workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/deps/libserde-f1a8a08037a68bcd.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out/private.rs
+
+/workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/deps/libserde-f1a8a08037a68bcd.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out/private.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out/private.rs:
+
+# env-dep:OUT_DIR=/workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/build/serde-feeb55818b99363b/out
