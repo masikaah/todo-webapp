@@ -1,10 +1,13 @@
 <!doctype html>
 <html>
-<head>
-    
+    <head>
+        <meta charset="utf-8" />
+        <title>TASK App</title>
+    <link rel="modulepreload" href="/frontend-298d1e0f32bf78a6.js" crossorigin="anonymous" integrity="sha384-ccGh2YJWC7n2USMjC2QHCqYtcDgjAFo8cWdF0XvZFKEjGd2ti4I58y4rUvuRH1EY"><link rel="preload" href="/frontend-298d1e0f32bf78a6_bg.wasm" crossorigin="anonymous" integrity="sha384-zD5Xk/MZYk+cC8uUcRHuVR1qIVWw68Ket47zYeIyQBHL5wwbkPdlxnXWUhDrG24k" as="fetch" type="application/wasm"></head>
+    <body>
 <script type="module">
-import init, * as bindings from '/frontend-2d3df8df5b5724c0.js';
-const wasm = await init({ module_or_path: '/frontend-2d3df8df5b5724c0_bg.wasm' });
+import init, * as bindings from '/frontend-298d1e0f32bf78a6.js';
+const wasm = await init({ module_or_path: '/frontend-298d1e0f32bf78a6_bg.wasm' });
 
 
 window.wasmBindings = bindings;
@@ -12,12 +15,7 @@ window.wasmBindings = bindings;
 
 dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
 
-</script> 
-    <meta charset="utf-8" />
-    <title>Yew App</title>
-<link rel="modulepreload" href="/frontend-2d3df8df5b5724c0.js" crossorigin="anonymous" integrity="sha384-RNztWOJ1ksPiBfXuMdAkY4uDgVeP8Z+TGY8kNUOLwPhYDSWkeMFGSNKieKxQ5fMW"><link rel="preload" href="/frontend-2d3df8df5b5724c0_bg.wasm" crossorigin="anonymous" integrity="sha384-97Rkrn0GFq25qml4D2M1jrY7/TygcCx+UAHVzCtwkTTMAES7fnpY4NXmIaM/EfbV" as="fetch" type="application/wasm"></head>
-<body>
-<script>"use strict";
+</script><script>"use strict";
 
 (function () {
 

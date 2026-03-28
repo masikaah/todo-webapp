@@ -1,9 +1,21 @@
 use yew::prelude::*;
 
-#[function_component(App)]
-fn app() -> Html {
+#[component]
+fn App() -> Html {
+    let counter = use_state(|| 0);
+    let onclick = {
+        let counter = counter.clone();
+        move |_| {
+            let value = *counter + 1;
+            counter.set(value);
+        }
+    };
+
     html! {
-        <h1>{"Hello from Yew in a Workspace!"}</h1>
+        <div>
+            <button {onclick}>{ "+1" }</button>
+            <p>{ *counter }</p>
+        </div>
     }
 }
 
