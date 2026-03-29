@@ -1,1 +1,1 @@
-/workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/frontend.wasm: /workspaces/todo-webapp/frontend/src/main.rs
+/workspaces/todo-webapp/frontend/target/wasm32-unknown-unknown/debug/frontend.wasm: /workspaces/todo-webapp/frontend/src/main.rs /workspaces/todo-webapp/frontend/src/pages/about.rs /workspaces/todo-webapp/frontend/src/pages/home.rs /workspaces/todo-webapp/frontend/src/pages/mod.rs /workspaces/todo-webapp/frontend/src/pages/task.rs
